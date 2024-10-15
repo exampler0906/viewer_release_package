@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Name=Power_PI
+Comment=power pi start
+Exec=/root/power_pi/power_pi_start.sh
+Icon=/root/Release/res/icon/logo.png
+Terminal=true
+Type=Application
